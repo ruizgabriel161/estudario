@@ -1,0 +1,21 @@
+{
+  "name": "estudario",
+  "version": "0.1.0",
+  "description": "Plataforma de estudos com inteligência artificial local para geração de questões, simulados e organização do aprendizado.",
+  "license": "UNLICENSED",
+  "author": "Gabriel Lopes Ruiz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^26.6.6",
+    "eslint": "^10.14.0",
+    "prettier": "^3.9.10",
+    "typescript": "npm:@typescript/typescript6@^6.0.2",
+    "typescript-eslint": "^8.72.1",
+    "vitest": "^5.1.0"
+  }
+}
